@@ -53,5 +53,6 @@ The dataset includes demographic information suitable for statistical visualizat
 ### 🔗 Connect with Me
 
 Want to know more about this task or see the full project?
-📩 Message me or check out my [GitHub](https://github.com/) for the complete code and output!
+📩 Message me or check out my [Gmail](mpranav23it@student.mes.in) for the complete code and output!
 
+Linkedin Post : https://shorturl.at/tyHeU
